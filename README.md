@@ -6,14 +6,13 @@
 Here are its 3 components:
 
 The Server:
-[GitHub - mdsahilak/RestaurantServer: A Vapor swift backend server for a restaurant’s Ordering, Admin, Kitchen and Billing Aspects.](https://github.com/mdsahilak/RestaurantServer)
+https://github.com/mdsahilak/RestaurantServer
 
 The iOS App:
-[GitHub - mdsahilak/RestaurantClient: A restaurant iOS app for ordering in a restaurant.](https://github.com/mdsahilak/RestaurantClient)
+https://github.com/mdsahilak/RestaurantClient
 
 The Mac App:
-[GitHub - mdsahilak/RestaurantAdmin: A restaurant Mac app for adminstration of a restaurant](https://github.com/mdsahilak/RestaurantAdmin)
-
+https://github.com/mdsahilak/RestaurantAdmin
 
 
 Thank you.
