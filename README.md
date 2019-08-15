@@ -18,7 +18,7 @@ https://github.com/mdsahilak/RestaurantClient
 The Mac App:
 https://github.com/mdsahilak/RestaurantAdmin
 
-
+---
 For any feedback, hit me up on twitter @mdsahilak .
 <br>
 Thank you.
