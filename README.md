@@ -19,4 +19,5 @@ https://github.com/mdsahilak/RestaurantAdmin
 
 
 For any feedback, hit me up on twitter @mdsahilak .
-\nThank you.
+<br>
+Thank you.
