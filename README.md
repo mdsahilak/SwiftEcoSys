@@ -1,6 +1,6 @@
 # Swift Eco-System
 
-<img src="https://imgur.com/2nXdmrm.png" alt="X" style="width:500px;height:500px">
+<img src="https://imgur.com/2nXdmrm.png" alt="X" style="width:100px;height:100px">
 
 ## A simple enterprise eco-system(iPhone-Server-Mac) . This is a basic restaurant system using iOS app as client, Vapor Swift as server and macOS app as admin, built completely with swift.
 ### I built this just to discover and demonstrate what is possible with swift. As such, you may find that the project lacks many features of an actual enterprise system, as it obviously isn’t. Thank you. 
