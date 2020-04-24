@@ -5,7 +5,7 @@
 
 ## A simple enterprise eco-system(iPhone-Server-Mac) . This is a basic restaurant system using iOS app as client, Vapor Swift as server and macOS app as admin, built completely with swift(except for the websites obviously, I used the leaf templating language from the wonderful folks at Vapor for that).
 
-### I built this just to discover and demonstrate what is possible with swift. As such, you may find that the project lacks many features of an actual enterprise system, as it obviously isn’t. Also, please forgive the code and architectural quality as I am new to programming and this is a beginners project.
+### This is a small side project that i built to explore what is possible with swift. As such, you may find that the project lacks many features of an actual enterprise system, as it obviously isn’t. Please forgive Architectural Quality of the Code as this project was hacked together just for exploring and haven't been refactored extensively or optimized.
 ---
 Here are its 3 components:
 
@@ -19,6 +19,6 @@ The Mac App:
 https://github.com/mdsahilak/RestaurantAdmin
 
 ---
-For any feedback, hit me up on twitter @mdsahilak .
+For any feedback, contact me on twitter @mdsahilak or email: mdsahilak.dev@gmail.com
 <br>
-Thank you.
+Thanks.
